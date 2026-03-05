@@ -12,6 +12,5 @@ cooldown_period_blocks = 33
 min_number_of_operators = 1
 max_number_of_operators = 3
 block_sample_size = 1
-private_trap = true
-whitelist = ["0x0000000000000000000000000000000000000000"]
+private_trap = false
 address = "0x383EfD31D1383E8cf7aBeD267139d0829F64208c"
