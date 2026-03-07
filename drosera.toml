@@ -11,6 +11,6 @@ response_function = "respond(uint256,uint256,bool,uint256,uint8)"
 cooldown_period_blocks = 33
 min_number_of_operators = 1
 max_number_of_operators = 3
-block_sample_size = 1
+block_sample_size = 5
 private_trap = false
 address = "0x383EfD31D1383E8cf7aBeD267139d0829F64208c"
